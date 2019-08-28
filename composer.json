@@ -4,6 +4,12 @@
     "keywords": ["opentok", "laravel", "laratok", "video streaming", "video chat", "vincenzo gambino"],
     "homepage": "https://github.com/VincenzoGambino/LaraTok",
     "type": "Library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Hitlabs/OpenTok-PHP-SDK"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "opentok/opentok": "2.4.*"
