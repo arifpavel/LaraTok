@@ -20,5 +20,5 @@
             "VincenzoGambino\\LaraTok\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
