@@ -6,12 +6,7 @@
     "type": "Library",
     "require": {
         "php": ">=5.4.0",
-        "opentok/opentok": "2.4.*",
-        "illuminate/database": "5.3.*",
-        "illuminate/config": "5.3.*",
-        "illuminate/view": "5.3.*",
-        "illuminate/http": "5.3.*",
-        "illuminate/support": "5.3.*"
+        "opentok/opentok": "2.4.*"
     },
     "license": "MIT",
     "authors": [
