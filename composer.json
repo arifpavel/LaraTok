@@ -23,7 +23,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "VincenzoGambino\\LaraTok\\": "src/"
+            "arifpavel\\LaraTok\\": "src/"
         }
     },
     "minimum-stability": "dev"
